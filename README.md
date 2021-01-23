@@ -20,3 +20,5 @@ Data Structures &amp; Algorithms
 > Adjecency list for graph
 
 > BFS of a graph(connected and disconnected)
+
+> DFS of a graph

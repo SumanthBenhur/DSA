@@ -16,3 +16,7 @@ Data Structures &amp; Algorithms
 >https://practice.geeksforgeeks.org/problems/power-set4302/1
 
 > https://practice.geeksforgeeks.org/problems/n-meetings-in-one-room-1587115620/1
+
+> Adjecency list for graph
+
+> BFS of a graph(connected and disconnected)

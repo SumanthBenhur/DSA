@@ -26,3 +26,7 @@ Data Structures &amp; Algorithms
 > create a graph and print it
 
 > BFS of graph
+
+> Loop in a graph using DFS for directed graph
+
+> Loop in an undirected graph using BFS

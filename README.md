@@ -30,3 +30,5 @@ Data Structures &amp; Algorithms
 > Loop in a graph using DFS for directed graph
 
 > Loop in an undirected graph using BFS
+
+> Rat in a maze(Backtracking)

@@ -32,3 +32,7 @@ Data Structures &amp; Algorithms
 > Loop in an undirected graph using BFS
 
 > Rat in a maze(Backtracking)
+
+> Flood filled algo : LeetCode
+
+> [Minmum steps for a knight](https://practice.geeksforgeeks.org/problems/steps-by-knight5927/1#)

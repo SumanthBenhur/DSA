@@ -39,4 +39,6 @@ Data Structures &amp; Algorithms
 
 > Dijkstra algorithm
 
-> Topological Sort GFG
+> Topological Sort GFG(DFS)
+
+> Topological sort using BFS

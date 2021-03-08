@@ -42,3 +42,5 @@ Data Structures &amp; Algorithms
 > Topological Sort GFG(DFS)
 
 > Topological sort using BFS
+
+> Fractional Knapsack

@@ -46,5 +46,3 @@ Data Structures &amp; Algorithms
 > Fractional Knapsack
 
 > [Choose and swap](https://practice.geeksforgeeks.org/problems/choose-and-swap0531/1)
-
-> this is just to test 

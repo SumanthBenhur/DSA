@@ -5,7 +5,7 @@ string chooseandswap(string a){
         int pos[26];
         for(int i=0; i<26; i++) pos[i]=-1;
         
-        for(int i=0; i<a[i]; i++){
+        for(int i=0; i<a.length(); i++){
             if(pos[a[i]-97]==-1){
                 pos[a[i]-97]=i;
             }

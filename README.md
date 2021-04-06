@@ -48,3 +48,5 @@ Data Structures &amp; Algorithms
 > [Choose and swap](https://practice.geeksforgeeks.org/problems/choose-and-swap0531/1)
 
 > Minimum Platform Needed
+
+>  Arrange Amlifier SPOJ

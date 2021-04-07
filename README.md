@@ -50,3 +50,5 @@ Data Structures &amp; Algorithms
 > Minimum Platform Needed
 
 >  Arrange Amlifier SPOJ
+
+> [Mnimum Cost to cut Board] (https://www.geeksforgeeks.org/minimum-cost-cut-board-squares/)

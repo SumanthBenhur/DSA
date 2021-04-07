@@ -52,3 +52,5 @@ Data Structures &amp; Algorithms
 >  Arrange Amlifier SPOJ
 
 > [Mnimum Cost to cut Board] (https://www.geeksforgeeks.org/minimum-cost-cut-board-squares/)
+
+> [Chocolate Distribution System](https://practice.geeksforgeeks.org/problems/chocolate-distribution-problem3825/1)
